@@ -1,13 +1,13 @@
 #!/bin/bash  
-export UUID=${UUID:-'0c98e816-92a2-4d7b-8dc3-9285669e5e79'}   #
-export NEZHA_SERVER=${NEZHA_SERVER:-'nz.lilyonlyone.eu.org'}       #
-export NEZHA_PORT=${NEZHA_PORT:-'443'}                #
-export NEZHA_KEY=${NEZHA_KEY:-'BUlMGAi5Z8BTIDf8ij'}                      #
-export ARGO_DOMAIN=${ARGO_DOMAIN:-'ld08.shark.dns-dynamic.net'}                  #
-export ARGO_AUTH=${ARGO_AUTH:-'eyJhIjoiYjI2MDYyMzg2NDA3MDU3YzU3NzZkYTE1YzViM2IwM2YiLCJ0IjoiNDI4M2EzYzktMjU1Yy00ZGE3LWE1MzctZmI5ZTIxZWFiYjUzIiwicyI6Ik5URmtPVGRqTkdFdE1qWmlOQzAwWTJZMkxXSXlPV010T1dOaFkySmxObUV4WmpkbSJ9'}                      #
+export UUID=${UUID:-'6c72dc46-858f-41bc-a5fc-0a202c6b1613'}   #
+export NEZHA_SERVER=${NEZHA_SERVER:-''}       #
+export NEZHA_PORT=${NEZHA_PORT:-''}                #
+export NEZHA_KEY=${NEZHA_KEY:-''}                      #
+export ARGO_DOMAIN=${ARGO_DOMAIN:-''}                  #
+export ARGO_AUTH=${ARGO_AUTH:-''}                      #
 export CFIP=${CFIP:-'www.visa.com.tw'}                 #
 export CFPORT=${CFPORT:-'443'}                         #
-export NAME=${NAME:-'lade'}                             #
+export NAME=${NAME:-'ry'}                             #
 export FILE_PATH=${FILE_PATH:-'./.npm'}                #  
 export ARGO_PORT=${ARGO_PORT:-'8001'}                  #
 export TUIC_PORT=${TUIC_PORT:-'40000'}                 #
